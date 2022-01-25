@@ -12,9 +12,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/SpEcHiDe/PyroGramBot",
+  "repository": "https://github.com/Cinemaguru/pyro",
   "success_url": "https://telegram.dog/UserBotTalk",
-  "website": "https://github.com/SpEcHiDe/PyroGramBot",
+  "website": "https://github.com/Cinemaguru/pyro",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -41,7 +41,7 @@
     }
   }],
   "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/Cinemaguru/heroku-buildpack-ffmpeg-latest"
   }, {
     "url": "heroku/python"
   }],
